@@ -1,0 +1,6 @@
+The New Uruk Default-Installing Standard Texturepack is a fork of "Faithful 32X32"
+http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8
+
+The unmodified work of the Faithful 32X32 authors is their intellectual property and may only be distributed subject to the conditions found at the URL specified above.
+
+The work of the New Uruk modification is (c) 2015 Democritus the Third, all rights reserved. This pack is not licensed for distribution other than to players on the New Uruk server except insofar as the Faithful 32X32 assets are owned by that project team.

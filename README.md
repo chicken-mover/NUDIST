@@ -3,4 +3,4 @@ The New Uruk Default-Installing Standard Texturepack is a fork of "Faithful 32X3
 
 The content of Faithful 32X32 is owned by its creators and is distributed subject to the license available at the URL above.
 
-Additions and modifications to Faithful 32X32 are (c) 2015 Democritus the Third and may not be distributed. For questions or comments please contact thorva@d3mok.net.
+Additions and modifications to Faithful 32X32 are &copy; 2015 Democritus the Third and may not be distributed. For questions or comments please contact thorva@d3mok.net.
